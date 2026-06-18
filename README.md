@@ -21,21 +21,14 @@
 
 ---
 
-## `$ whoami`
+## 👨‍💻 About Me
 
-```typescript
-const utkarsh: Developer = {
-  name       : "Utkarsh Gupta",
-  location   : "Ghaziabad, Uttar Pradesh, India 🇮🇳",
-  education  : "B.Tech CSE · ABES Engineering College · SGPA: 9.61 / 10.0",
-  strengths  : ["Data Structures & Algorithms", "Frontend Engineering", "Problem Solving"],
-  building   : "DSA Visualizer — making algorithms visual & intuitive",
-  competed   : ["SeaSafe @ AI & DeepTech Hackathon — Maritime Route Intelligence"],
-  open_to    : "SDE Internships · Hackathon Teams · Open Source Projects",
-  currently  : "Deepening React, Next.js & algorithmic thinking daily",
-  ask_me     : "C++, DSA, Frontend Development, Hackathon strategy ☕"
-};
-```
+- 🎓 **B.Tech CSE** @ ABES Engineering College &nbsp;|&nbsp; **SGPA: 9.61 / 10.0**
+- 📍 Ghaziabad, Uttar Pradesh, India
+- 🏆 Competed at **AI & DeepTech Hackathon** with SeaSafe — Maritime Route Intelligence
+- 💼 Open to **SDE Internships · Hackathon Teams · Open Source**
+- 📖 Deepening **React, Next.js** & algorithmic thinking daily
+- 💬 Ask me about **C++, DSA, Frontend Development, Hackathon strategy ☕**
 
 <br/>
 
@@ -85,22 +78,6 @@ const utkarsh: Developer = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh9368&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=6"/>
 </div>
-
-<br/>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarsh9368/utkarsh9368/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarsh9368/utkarsh9368/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/utkarsh9368/utkarsh9368/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-> ⚠️ **One-time setup:** Add the snake workflow to your profile repo. Takes 2 min → [Snake Action Guide](https://github.com/Platane/snk)
 
 <br/>
 
