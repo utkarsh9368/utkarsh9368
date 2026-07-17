@@ -68,15 +68,15 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utkarsh9368&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utkarshStudio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&count_private=true"/>
   &nbsp;
-  <img height="170" src="https://streak-stats.demolab.com/?user=utkarsh9368&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=F472B6&currStreakLabel=818CF8&sideLabels=818CF8"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=utkarshStudio&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=F472B6&currStreakLabel=818CF8&sideLabels=818CF8"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh9368&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshStudio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=6"/>
 </div>
 
 <br/>
