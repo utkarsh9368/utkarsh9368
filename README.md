@@ -162,14 +162,13 @@ A responsive frontend project focused on recreating the core Amazon shopping exp
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=utkarshStudio&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=utkarshStudio&theme=tokyonight&no-frame=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
-
 ---
 
 ## Current Focus
