@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:4f46e5&height=220&section=header&text=UTKARSH%20GUPTA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=17&descColor=c7d2fe&animation=fadeIn"/>
 
-<a href="https://github.com/utkarsh9368">
-<img src="https://komarev.com/ghpvc/?username=utkarsh9368&style=flat-square&color=6366f1&label=PROFILE+VIEWS"/>
+<a href="https://github.com/utkarshStudio">
+<img src="https://komarev.com/ghpvc/?username=utkarshStudio&style=flat-square&color=6366f1&label=PROFILE+VIEWS"/>
 </a>
 
 <br><br>
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/utkarsh9368">
+<a href="https://github.com/utkarshStudio">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
@@ -30,9 +30,9 @@
 
 ## About
 
-I'm **Utkarsh Gupta**, a Computer Science Engineering student at **ABES Engineering College**, currently building my foundation in software engineering through **DSA, frontend development, and hands-on projects**.
+I'm **Utkarsh Gupta**, a Computer Science Engineering student at **ABES Engineering College**, building my foundation in software engineering through **DSA, frontend development, and hands-on projects**.
 
-I enjoy turning ideas into working products, participating in hackathons, and continuously improving how I approach problems.
+I enjoy turning ideas into working products, participating in hackathons, and improving the way I approach technical problems.
 
 * 🎓 **B.Tech CSE** — ABES Engineering College
 * 📚 **2nd Year Computer Science Student**
@@ -41,7 +41,7 @@ I enjoy turning ideas into working products, participating in hackathons, and co
 * 🚀 Hackathon builder with experience building real-world solutions
 * 🌊 Built **SeaSafe — Maritime Route Intelligence**
 * 🛒 Built a fully functional **Amazon-inspired frontend**
-* 🎯 Currently preparing for **SDE internships & software engineering opportunities**
+* 🎯 Preparing for **SDE internships & software engineering opportunities**
 
 ---
 
@@ -61,7 +61,7 @@ I enjoy turning ideas into working products, participating in hackathons, and co
         Problem Solving      React / Next.js     Real Products
         Algorithms           JavaScript          Rapid Prototyping
         Competitive          HTML / CSS          Team Collaboration
-        Programming          UI / UX              Deployment
+        Programming          UI / UX             Deployment
 ```
 
 ---
@@ -104,6 +104,12 @@ An AI-powered maritime route intelligence platform designed to help shipping tea
 
 `Next.js` `React` `MapLibre` `deck.gl` `AI`
 
+<br>
+
+<a href="https://seasafe-three.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-SeaSafe-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </td>
 
 <td width="50%">
@@ -112,7 +118,7 @@ An AI-powered maritime route intelligence platform designed to help shipping tea
 
 **Amazon-inspired E-Commerce UI**
 
-A responsive frontend project focused on recreating the core Amazon shopping experience with a clean UI, navigation, product sections and responsive layouts.
+A responsive frontend project focused on recreating the core Amazon shopping experience with navigation, product sections and responsive layouts.
 
 **Built with**
 
@@ -120,7 +126,9 @@ A responsive frontend project focused on recreating the core Amazon shopping exp
 
 <br>
 
-<a href="https://amazon-frontend-clone-project.vercel.app/">Live Demo →</a>
+<a href="https://amazon-frontend-clone-project.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Amazon%20Clone-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -132,9 +140,9 @@ A responsive frontend project focused on recreating the core Amazon shopping exp
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=utkarsh9368&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=utkarshStudio&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9"/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=utkarsh9368&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8&sideLabels=818cf8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff"/>
+<img height="180" src="https://streak-stats.demolab.com?user=utkarshStudio&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8&sideLabels=818cf8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
@@ -142,7 +150,7 @@ A responsive frontend project focused on recreating the core Amazon shopping exp
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh9368&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshStudio&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9"/>
 
 </div>
 
@@ -152,7 +160,7 @@ A responsive frontend project focused on recreating the core Amazon shopping exp
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh9368&bg_color=0d1117&color=818cf8&line=6366f1&point=c4b5fd&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshStudio&bg_color=0d1117&color=818cf8&line=6366f1&point=c4b5fd&area=true&hide_border=true"/>
 
 </div>
 
@@ -162,7 +170,7 @@ A responsive frontend project focused on recreating the core Amazon shopping exp
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=utkarsh9368&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=utkarshStudio&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -252,8 +260,7 @@ I'm especially interested in:
 
 <div align="center">
 
-If you're building something interesting, solving hard problems,
-or looking for a teammate for a hackathon — let's connect.
+Building useful software, solving problems, and learning something new every day.
 
 <br><br>
 
@@ -265,7 +272,7 @@ or looking for a teammate for a hackathon — let's connect.
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/utkarsh9368">
+<a href="https://github.com/utkarshStudio">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
