@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:4f46e5&height=220&section=header&text=UTKARSH%20GUPTA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=17&descColor=c7d2fe&animation=fadeIn"/>
 
-<a href="https://github.com/utkarshStudio">
-<img src="https://komarev.com/ghpvc/?username=utkarshStudio&style=flat-square&color=6366f1&label=PROFILE+VIEWS"/>
-</a>
-
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+ABES+Engineering+College;DSA+%7C+C%2B%2B+%7C+Problem+Solving;React+%7C+Next.js+%7C+Frontend+Engineering;Hackathon+Builder+%7C+Real-World+Projects;Building%2C+Learning%2C+Improving+Every+Day"/>
 
