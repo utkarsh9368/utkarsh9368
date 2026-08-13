@@ -217,28 +217,46 @@ Rapid prototyping, teamwork, product thinking and shipping under pressure.
 <div align="center">
 
 <a href="https://codolio.com/profile/utkarshByte">
-<img src="https://img.shields.io/badge/Codolio-utkarshByte-6366F1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CODOLIO-UTKARSHBYTE-6366F1?style=for-the-badge"/>
 </a>
+
+<br><br>
 
 <a href="https://leetcode.com/u/UtkarshByte/">
-<img src="https://img.shields.io/badge/LeetCode-UtkarshByte-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-UTKARSHBYTE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
+    
 
 <a href="https://www.geeksforgeeks.org/user/utkarshbyte/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-utkarshbyte-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-UTKARSHBYTE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
+
+    
 
 <a href="https://www.codechef.com/users/utkarshabes">
-<img src="https://img.shields.io/badge/CodeChef-utkarshabes-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CODECHEF-UTKARSHABES-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="https://codeforces.com/profile/utkarshabes">
-<img src="https://img.shields.io/badge/Codeforces-utkarshabes-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/CODEFORCES-UTKARSHABES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
+    
+
 <a href="https://www.hackerrank.com/profile/utkarshg223">
-<img src="https://img.shields.io/badge/HackerRank-utkarshg223-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HACKERRANK-UTKARSHG223-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+
+<br><br>
+
+<blockquote>
+I focus on understanding the problem first, designing the approach second, and writing the code third.
+</blockquote>
+
+</div>
 
 </div>
 
