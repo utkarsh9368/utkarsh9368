@@ -212,18 +212,32 @@ Rapid prototyping, teamwork, product thinking and shipping under pressure.
 
 ---
 
-## Problem Solving
+## 🧠 Problem Solving & Competitive Programming
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://codolio.com/profile/utkarshByte">
+<img src="https://img.shields.io/badge/Codolio-utkarshByte-6366F1?style=for-the-badge&logoColor=white"/>
 </a>
 
- 
+<a href="https://leetcode.com/u/UtkarshByte/">
+<img src="https://img.shields.io/badge/LeetCode-UtkarshByte-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/user/utkarshbyte/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-utkarshbyte-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/utkarshabes">
+<img src="https://img.shields.io/badge/CodeChef-utkarshabes-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/utkarshabes">
+<img src="https://img.shields.io/badge/Codeforces-utkarshabes-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/utkarshg223">
+<img src="https://img.shields.io/badge/HackerRank-utkarshg223-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </div>
